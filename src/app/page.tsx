@@ -11,7 +11,7 @@ export default function Home() {
       <button className="px-6 py-3 bg-red-600 text-white rounded-lg shadow hover:bg-red transition">
         Hire Me!
       </button>
-      <img src="/next.svg" alt="Next.js Logo" className="h-16 mt-6" />
+      <img src="/public/next.svg" alt="Next.js Logo" className="h-16 mt-6" />
     </main>
   );
 }
