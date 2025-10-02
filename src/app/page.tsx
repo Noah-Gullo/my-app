@@ -7,7 +7,7 @@ export default function Home() {
       <p className="text-lg text-gray-700 mb-6">
         My name is Noah Gullo and I am a first year CS student.
       </p>
-      <button className="px-6 py-3 bg-blue-600 text-white rounded-lg shadow hover:bg-blue-700 transition">
+      <button className="px-6 py-3 bg-blue-600 text-white rounded-lg shadow hover:bg-red transition">
         Click Me!
       </button>
     </main>
