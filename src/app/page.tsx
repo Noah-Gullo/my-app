@@ -5,11 +5,13 @@ export default function Home() {
         🚀 Welcome to My First Next.js + Tailwind Page!
       </h1>
       <p className="text-lg text-gray-700 mb-6">
-        My name is Noah Gullo and I am a first year CS student.
+        My name is Noah Gullo. Fun Fact: I flew a small plane once.
       </p>
+      <p>I'm excited to contribute to CodeBox.</p>
       <button className="px-6 py-3 bg-red-600 text-white rounded-lg shadow hover:bg-red transition">
         Hire Me!
       </button>
+      <img src="/next.svg" alt="Next.js Logo" className="h-16 mt-6" />
     </main>
   );
 }
