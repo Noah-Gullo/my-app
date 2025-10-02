@@ -7,7 +7,7 @@ export default function Home() {
       <p className="text-lg text-gray-700 mb-6">
         My name is Noah Gullo. Fun Fact: I flew a small plane once.
       </p>
-      <p>I'm excited to contribute to CodeBox.</p>
+      <p>I&apos;m excited to contribute to CodeBox.</p>
       <button className="px-6 py-3 bg-red-600 text-white rounded-lg shadow hover:bg-red transition">
         Hire Me!
       </button>
